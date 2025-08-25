@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: 'app-hidrocooler'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E744927A1DB748E787F3594F24331CC2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DFC2B7ABD9B4CB083C691310277CEC7 }}
