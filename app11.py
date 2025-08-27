@@ -550,7 +550,6 @@ if modo_datos.startswith("Estimación"):
         t = int(fecha_to_t[r["FECHA"]])
         ton = float(r["CANTIDAD"])  # ya en ton
         demand_ton[(p, t)] += ton/1000
-    print(demand_ton)
 
 
 st.subheader("Calendario de días (t → FECHA)")
