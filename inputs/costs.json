@@ -1,0 +1,6847 @@
+[
+  {
+    "origen": "ALMAHUE",
+    "destino": "ALMAHUE",
+    "costo": 0.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ALMAHUE",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "BODEGA",
+    "costo": 0.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "BODEGA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "CALIBORO",
+    "costo": 0.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALIBORO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "CALLEUQUE",
+    "costo": 0.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CALLEUQUE",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "CHUMPIRRO",
+    "costo": 0.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "CHUMPIRRO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "COCALAN",
+    "costo": 0.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "COCALAN",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL CONDOR",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL CONDOR",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL DESCANSO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL DESCANSO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL ESPINO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ESPINO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL HUAICO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL HUAICO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL PARQUE",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PARQUE",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL PICAZO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL PICAZO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL RECURSO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RECURSO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL RETIRO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETIRO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL RETORNO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL RETORNO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "EL ROSARIO",
+    "costo": 0.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "EL ROSARIO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "ENTRE RIOS",
+    "costo": 0.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "ENTRE RIOS",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LA ESPERANZA",
+    "costo": 0.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESPERANZA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LA ESTACION",
+    "costo": 0.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ESTACION",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LA LAJUELA",
+    "costo": 0.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA LAJUELA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LA MORERA",
+    "costo": 0.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA MORERA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LA RINCONADA",
+    "costo": 0.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA RINCONADA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LA ROBLERIA",
+    "costo": 0.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LA ROBLERIA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LAS CABRAS",
+    "costo": 0.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS CABRAS",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LAS VERTIENTES",
+    "costo": 0.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LAS VERTIENTES",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LIHUEIMO",
+    "costo": 0.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LIHUEIMO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LOS ENCINOS",
+    "costo": 0.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS ENCINOS",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LOS MAITENES",
+    "costo": 0.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS MAITENES",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "LOS TOLDOS",
+    "costo": 0.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "LOS TOLDOS",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "MALLORCA",
+    "costo": 0.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "MALLORCA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "PANQUEHUE",
+    "costo": 0.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PANQUEHUE",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "PUENTE NEGRO",
+    "costo": 0.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "PUENTE NEGRO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "RIO CLARO",
+    "costo": 0.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "RIO CLARO",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "SAN HERNAN",
+    "costo": 0.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SAN HERNAN",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "SANTA MARGARITA",
+    "costo": 0.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MARGARITA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "SANTA MONICA",
+    "costo": 0.0
+  },
+  {
+    "origen": "SANTA MONICA",
+    "destino": "TALHUEN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "ALMAHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "BODEGA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "CALIBORO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "CALLEUQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "CHUMPIRRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "COCALAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL CONDOR",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL DESCANSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL ESPINO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL HUAICO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL PARQUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL PICAZO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL RECURSO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL RETIRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL RETORNO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "EL ROSARIO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "ENTRE RIOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LA ESPERANZA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LA ESTACION",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LA LAJUELA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LA MORERA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LA RINCONADA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LA ROBLERIA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LAS CABRAS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LAS VERTIENTES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LIHUEIMO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LOS ENCINOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LOS MAITENES",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "LOS TOLDOS",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "MALLORCA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "PANQUEHUE",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "PUENTE NEGRO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "RIO CLARO",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "SAN HERNAN",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "SANTA MARGARITA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "SANTA MONICA",
+    "costo": 350000.0
+  },
+  {
+    "origen": "TALHUEN",
+    "destino": "TALHUEN",
+    "costo": 0.0
+  }
+]

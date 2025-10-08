@@ -1,0 +1,68 @@
+[
+  {
+    "equipo": "H1",
+    "tipo": "Hidro",
+    "capacidad_tpd": 60.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "H2",
+    "tipo": "Hidro",
+    "capacidad_tpd": 60.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "H3",
+    "tipo": "Hidro",
+    "capacidad_tpd": 60.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S1",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S2",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S3",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S4",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S5",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S6",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S7",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S8",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  }
+]

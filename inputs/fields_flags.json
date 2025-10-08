@@ -1,0 +1,298 @@
+[
+  {
+    "campo": "ALMAHUE",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "BODEGA",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "CALIBORO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "CALLEUQUE",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "CHUMPIRRO",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "COCALAN",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL CONDOR",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL DESCANSO",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL ESPINO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": true,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL HUAICO",
+    "Sadema": false,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL PARQUE",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL PICAZO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL RECURSO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL RETIRO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL RETORNO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": true,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL ROSARIO",
+    "Sadema": false,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "ENTRE RIOS",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LA ESPERANZA",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LA ESTACION",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LA LAJUELA",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LA MORERA",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LA RINCONADA",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LA ROBLERIA",
+    "Sadema": false,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LAS CABRAS",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LAS VERTIENTES",
+    "Sadema": false,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LIHUEIMO",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LOS ENCINOS",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LOS MAITENES",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "LOS TOLDOS",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "MALLORCA",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "PANQUEHUE",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "PUENTE NEGRO",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "RIO CLARO",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "SAN HERNAN",
+    "Sadema": false,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "SANTA MARGARITA",
+    "Sadema": true,
+    "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "SANTA MONICA",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "TALHUEN",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  }
+]

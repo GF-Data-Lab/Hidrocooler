@@ -1,0 +1,9 @@
+{
+  "ganancia_ton": 9000.0,
+  "instalation_cost": 40000.0,
+  "use_sym_costs": true,
+  "use_mov_limit": false,
+  "max_moves_per_day": null,
+  "gamma_S_default": 108.0,
+  "gamma_H_default": 60.0
+}
