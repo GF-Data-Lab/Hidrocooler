@@ -71,8 +71,6 @@ def build_and_solve_docplex(inst: Instance, write_lp: bool = False, fixed_units:
             raise ValueError(f"Equipo fijo '{fu.team}' ya existe en M/team_type")
 
         # Si el campo no permite el tipo, habilítalo explícitamente en la copia local
-        if not field_allow[fu.field][fu.kind]:
-            field_allow[fu.field][fu.kind] = True
 
         # Agregar a los conjuntos y parámetros locales
         M.append(fu.team)
@@ -124,6 +122,12 @@ def build_and_solve_docplex(inst: Instance, write_lp: bool = False, fixed_units:
                 x_keys.append((m, f, t))
 
     x = mdl.binary_var_dict(x_keys, name="x")  # 1 si m opera en f el día t
+    # tras crear x_keys con móviles:
+    for fu in fixed_units:
+        for t in T:
+            if (fu.team, fu.field, t) not in x_keys:
+                x_keys.append((fu.team, fu.field, t))
+
     p = mdl.continuous_var_dict([(m, f, t) for m in M for f in F for t in T], lb=0, name="p")  # ton procesadas
     y = mdl.binary_var_dict([(f, t) for f in F for t in T], name="y")  # cadena en f,t
 
@@ -191,10 +195,14 @@ def build_and_solve_docplex(inst: Instance, write_lp: bool = False, fixed_units:
                 mdl.add_constraint(mdl.sum(p[m, f, t] for m in M) <= inst.demand_ton[(f, t)], ctname=f"dem_{f}_{t}")
 
     # (3b) Máximo de equipos por campo y día (opcional)
-    if inst.max_teams_per_field is not None:
-        for f, t in product(F, T):
-            if (f, t) in inst.max_teams_per_field:
-                mdl.add_constraint(mdl.sum(X(m, f, t) for m in M) <= inst.max_teams_per_field[(f, t)], ctname=f"maxK_{f}_{t}")
+    fixed_set = set(fu.team for fu in fixed_units)  # nombres de equipos fijos
+    for f, t in product(F, T):
+        if (f, t) in inst.max_teams_per_field:
+            mdl.add_constraint(
+                mdl.sum(X(m, f, t) for m in M if m not in fixed_set) 
+                <= 1,
+                ctname=f"maxK_moviles_{f}_{t}"
+            )
 
     # (4) Compatibilidades (usar field_allow actualizado)
     # Hidro solo en campos permitidos
@@ -204,15 +212,22 @@ def build_and_solve_docplex(inst: Instance, write_lp: bool = False, fixed_units:
                 mdl.add_constraint(X(m, f, t) == 0, ctname=f"compat_H_{m}_{f}_{t}")
 
     # Sadema: si no permite Sadema pero sí Chain => requiere y[f,t]; si no permite nada => 0
+    fixed_set = set(fu.team for fu in fixed_units)
+
     for m, f, t in product(S, F, T):
         allow_S = field_allow[f]["Sadema"]
         allow_chain = field_allow[f]["Chain"]
+        if m in fixed_set:
+            # El fijo opera “aparte”: lo fijas en su campo y 0 en los demás; no necesita y.
+            continue
         if not allow_S:
             if allow_chain:
-                mdl.add_constraint(X(m, f, t) <= y[f, t], ctname=f"compat_S_chain_{m}_{f}_{t}")
+                mdl.add_constraint(X(m, f, t) <= y[f, t], ctname=f"compat_S_chain_MOVIL_{m}_{f}_{t}")
             else:
                 if (m, f, t) in x:
-                    mdl.add_constraint(X(m, f, t) == 0, ctname=f"compat_S_forbidden_{m}_{f}_{t}")
+                    mdl.add_constraint(X(m, f, t) == 0, ctname=f"compat_S_forbidden_MOVIL_{m}_{f}_{t}")
+
+
 
     # (5) Recurso Cadena
     for t in T:
@@ -273,6 +288,10 @@ def build_and_solve_docplex(inst: Instance, write_lp: bool = False, fixed_units:
     mdl.set_log_output(True)
 
     sol = mdl.solve(log_output=True)
+
+    if not sol:
+        cf = mdl.refine_conflict()
+        cf.display()  # imprime las restricciones en conflicto
 
     # ===== Resultados =====
     res = {

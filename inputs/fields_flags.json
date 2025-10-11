@@ -48,6 +48,14 @@
     "HidroFijo": false
   },
   {
+    "campo": "COVARRUBIA",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
     "campo": "EL CONDOR",
     "Sadema": true,
     "Hidro": true,
@@ -67,7 +75,7 @@
     "campo": "EL ESPINO",
     "Sadema": false,
     "Hidro": false,
-    "Chain": true,
+    "Chain": false,
     "AdemaFija": false,
     "HidroFijo": false
   },
@@ -115,7 +123,7 @@
     "campo": "EL RETORNO",
     "Sadema": false,
     "Hidro": false,
-    "Chain": true,
+    "Chain": false,
     "AdemaFija": false,
     "HidroFijo": false
   },
@@ -123,6 +131,14 @@
     "campo": "EL ROSARIO",
     "Sadema": false,
     "Hidro": true,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
+    "campo": "EL TRIUNFO",
+    "Sadema": false,
+    "Hidro": false,
     "Chain": false,
     "AdemaFija": false,
     "HidroFijo": false
@@ -208,6 +224,14 @@
     "HidroFijo": false
   },
   {
+    "campo": "LLEPO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
     "campo": "LOS ENCINOS",
     "Sadema": true,
     "Hidro": true,
@@ -256,6 +280,14 @@
     "HidroFijo": false
   },
   {
+    "campo": "QUILACO",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
     "campo": "RIO CLARO",
     "Sadema": true,
     "Hidro": true,
@@ -272,11 +304,19 @@
     "HidroFijo": false
   },
   {
+    "campo": "SANTA IRENE",
+    "Sadema": false,
+    "Hidro": false,
+    "Chain": false,
+    "AdemaFija": false,
+    "HidroFijo": false
+  },
+  {
     "campo": "SANTA MARGARITA",
     "Sadema": true,
     "Hidro": true,
     "Chain": false,
-    "AdemaFija": false,
+    "AdemaFija": true,
     "HidroFijo": false
   },
   {

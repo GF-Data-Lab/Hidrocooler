@@ -1,0 +1,40 @@
+[2025-10-10T13:17:18.922Z, WARNING] DO Runtime 24.1 on Python 3.11 is used as default with pandas 2.1.1 libraries.
+[2025-10-10T13:17:32.150Z, INFO] WARNING: Number of workers has been reduced to 1 to comply with platform limitations.
+[2025-10-10T13:17:32.152Z, INFO] Version identifier: 20.1.0.1 | 2025-03-11 | 53c4b2a41
+[2025-10-10T13:17:32.153Z, INFO] CPXPARAM_Read_DataCheck                          1
+[2025-10-10T13:17:32.154Z, INFO] CPXPARAM_Threads                                 1
+[2025-10-10T13:17:32.154Z, INFO] CPXPARAM_MIP_Tolerances_MIPGap                   0.01
+[2025-10-10T13:17:32.155Z, INFO] Legacy callback                                  i
+[2025-10-10T13:17:32.739Z, INFO] Tried aggregator 2 times.
+[2025-10-10T13:17:32.797Z, INFO] MIP Presolve eliminated 198967 rows and 443000 columns.
+[2025-10-10T13:17:32.798Z, INFO] MIP Presolve modified 596 coefficients.
+[2025-10-10T13:17:32.799Z, INFO] Aggregator did 76 substitutions.
+[2025-10-10T13:17:32.802Z, INFO] Reduced MIP has 7531 rows, 53110 columns, and 111809 nonzeros.
+[2025-10-10T13:17:32.802Z, INFO] Reduced MIP has 52981 binaries, 0 generals, 0 SOSs, and 0 indicators.
+[2025-10-10T13:17:32.804Z, INFO] Presolve time = 0.54 sec. (392.31 ticks)
+[2025-10-10T13:17:32.831Z, INFO] Found incumbent of value 1.1649576e+07 after 0.68 sec. (493.99 ticks)
+[2025-10-10T13:17:32.894Z, INFO] Tried aggregator 1 time.
+[2025-10-10T13:17:32.921Z, INFO] Detecting symmetries...
+[2025-10-10T13:17:32.941Z, INFO] Reduced MIP has 7531 rows, 53110 columns, and 111809 nonzeros.
+[2025-10-10T13:17:32.941Z, INFO] Reduced MIP has 52981 binaries, 0 generals, 0 SOSs, and 0 indicators.
+[2025-10-10T13:17:32.942Z, INFO] Presolve time = 0.10 sec. (86.47 ticks)
+[2025-10-10T13:17:33.041Z, INFO] Probing time = 0.04 sec. (16.24 ticks)
+[2025-10-10T13:17:33.055Z, INFO] Clique table members: 61051.
+[2025-10-10T13:17:33.070Z, INFO] MIP emphasis: balance optimality and feasibility.
+[2025-10-10T13:17:33.070Z, INFO] MIP search method: dynamic search.
+[2025-10-10T13:17:33.071Z, INFO] Parallel mode: none, using 1 thread.
+[2025-10-10T13:17:33.329Z, INFO] Root relaxation solution time = 0.26 sec. (351.52 ticks)
+[2025-10-10T13:17:33.329Z, INFO] 
+[2025-10-10T13:17:33.330Z, INFO]         Nodes                                         Cuts/
+[2025-10-10T13:17:33.330Z, INFO]    Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+[2025-10-10T13:17:33.331Z, INFO] 
+[2025-10-10T13:17:33.331Z, INFO] *     0+    0                       1.16496e+07   2.74559e+08              --- 
+[2025-10-10T13:17:33.347Z, INFO] *     0     0      integral     0   7.52411e+07   7.52411e+07     3013    0.00%
+[2025-10-10T13:17:33.348Z, INFO] Elapsed time = 1.20 sec. (1038.36 ticks, tree = 0.00 MB, solutions = 2)
+[2025-10-10T13:17:33.369Z, INFO] 
+[2025-10-10T13:17:33.370Z, INFO] Root node processing (before b&c):
+[2025-10-10T13:17:33.371Z, INFO]   Real time             =    1.22 sec. (1055.74 ticks)
+[2025-10-10T13:17:33.371Z, INFO] Sequential b&c:
+[2025-10-10T13:17:33.372Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
+[2025-10-10T13:17:33.372Z, INFO]                           ------------
+[2025-10-10T13:17:33.372Z, INFO] Total (root+branch&cut) =    1.22 sec. (1055.74 ticks)
